@@ -12,7 +12,8 @@
  */
 #ifndef ___BST_H
 #define ___BST_H
-
+#include <stdio.h>
+#include <stdlib.h>
 typedef struct Node* Bst;
 
 /**
